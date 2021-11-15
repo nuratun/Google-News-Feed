@@ -1,0 +1,25 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .settings-text-input {
+   width: 250px;
+ }
+
+.google-news-articles-container {
+
+}
+
+.google-news-table {
+  width: 100%;
+  text-align: left;
+}
+
+.google-news-row {
+  border: 1px solid #000;
+}
+
+.settings-table-row {
+  margin: 2% auto;
+}

@@ -1,0 +1,21 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+ .newsfeed-date {
+   font-size: 1em;
+   color: rgb(0, 57, 32, 0.7);
+ }
+
+ .newsfeed-tag {
+   font-size: 1em;
+   color: rgb(0, 57, 32, 0.8);
+ }
+
+ .newsfeed-title {
+   font-size: 1.6em;
+   font-weight: 600;
+   line-height:1.2em;
+   color: rgb(0, 57, 32);
+ }
