@@ -17,8 +17,6 @@ This plugin will add a section to the Settings of your Wordpress backend, called
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
-
 1. Make sure all the files are in one directory and zip them
 2. Upload to the Plugins section on Wordpress and Activate
 3. That's it!
